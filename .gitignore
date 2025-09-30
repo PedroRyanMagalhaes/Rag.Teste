@@ -1,0 +1,6 @@
+ManualOperacional.pdf
+*.log
+*.tmp
+.venv/
+__pycache__/
+*.pyc
