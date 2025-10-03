@@ -65,7 +65,7 @@ RESPOSTA:
 """
 
 #Threshold de similaridade para considerar um documento relevante
-SIMILARITY_THRESHOLD = 0.7
+SIMILARITY_THRESHOLD = 0.5
 
 #config do projeto
 PROJECT_NAME = "RAG TESTE"
